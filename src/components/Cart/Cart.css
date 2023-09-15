@@ -1,0 +1,28 @@
+.cart-details-container {
+  background-color: white;
+  height: max-content;
+  text-align: left;
+  padding: 20px;
+  border-radius: 10px;
+  width: fit-content;
+}
+.cart-details-container h4 {
+  border-bottom: 1px solid black;
+  padding-bottom: 20px;
+  color: #2f80ed;
+}
+.cart-details-container ol {
+  border-bottom: 1px solid black;
+  padding-bottom: 20px;
+}
+.cart-details-container p {
+  border-bottom: 1px solid black;
+  padding-bottom: 20px;
+}
+ol {
+  margin: 0;
+  padding: 0 20px;
+}
+li {
+  margin-bottom: 5px;
+}

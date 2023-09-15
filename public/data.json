@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co/7kfXZdJ/Rectangle-2.png",
+    "title": "Introduction to Web Development",
+    "description": "Learn the basics of HTML, CSS, and JavaScript.",
+    "price": 15000,
+    "credit": 1
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co/82RX7FY/Rectangle-2-1.png",
+    "title": "Data Science Fundamentals",
+    "description": "Explore data analysis, machine learning, and statistics.",
+    "price": 25000,
+    "credit": 2
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co/zxLNpFJ/Rectangle-2-2.png",
+    "title": "Graphic Design Masterclass",
+    "description": "Learn graphic design principles and Adobe Creative Suite.",
+    "price": 10000,
+    "credit": 5
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co/PY39xcy/Rectangle-2-3.png",
+    "title": "Mobile App Development",
+    "description": "Build Android and iOS apps with React Native.",
+    "price": 20000,
+    "credit": 8
+  },
+  {
+    "id": 5,
+    "cover_img": "https://i.ibb.co/PG61sGK/Rectangle-2-4.png",
+    "title": "Digital Marketing Mastery",
+    "description": "Become an expert in online marketing and SEO.",
+    "price": 15000,
+    "credit": 5
+  },
+  {
+    "id": 6,
+    "cover_img": "https://i.ibb.co/gJWccKk/Rectangle-2-5.png",
+    "title": "Python Programming for Beginners",
+    "description": "Start your journey into coding with Python.",
+    "price": 23000,
+    "credit": 8
+  },
+  {
+    "id": 7,
+    "cover_img": "https://i.ibb.co/y8D8S7Z/Rectangle-2-6.png",
+    "title": "Financial Planning and Investment",
+    "description": "Learn about personal finance and investment strategies.",
+    "price": 21000,
+    "credit": 10
+  },
+  {
+    "id": 8,
+    "cover_img": "https://i.ibb.co/bPk0Jcb/Rectangle-3.png",
+    "title": "Photography Essentials",
+    "description": "Master the art of photography and photo editing.",
+    "price": 12000,
+    "credit": 14
+  },
+  {
+    "id": 9,
+    "cover_img": "https://i.ibb.co/BGJMc5B/Rectangle-3-1.png",
+    "title": "Artificial Intelligence Fundamentals",
+    "description": "Explore AI concepts, neural networks, and applications.",
+    "price": 10000,
+    "credit": 5
+  }
+]
