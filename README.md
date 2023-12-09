@@ -14,9 +14,9 @@ Project features
 - Using setRemainingCredit state to show that how much credit remaining and pass the state Home component to Cart component.
 - Using setCoursePrice state to show the price of the courses and pass the state Home component to the Cart component.
 
+##
 
 Technologies are use :
-##
 
 - Tailwind
 - daisyUI
